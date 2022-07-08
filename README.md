@@ -4,7 +4,7 @@ Summary of Chapter 14 from the "Hands On Machine Learning with Scikit Learn and 
 This chapter goes indepth in Computer Vision techniques that can be used with Tensorflow. 
 The notebook some of these techniques, with special attention to Convolutional Neural Networks.
 
-### Convolutional Neural Networks (CNN)
+## Convolutional Neural Networks (CNN)
 
 This sections goes in depth on how these types of networks were formulated and their basic operation. In addition, the following layers are discussed, with code implementations
 
